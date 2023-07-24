@@ -12,7 +12,7 @@
 * /login - Efetuar login
 
 # Tecnologias
-- Utilizei para realizar o projeto as tecnologias:
+Utilizei para realizar o projeto as tecnologias:
 * Java 17
 * Spring Boot 3
 * Maven
