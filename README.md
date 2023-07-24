@@ -1,5 +1,5 @@
 # API-Voll.med
-* Projeto feito pela plataforma Alura, utilizando Java e seu framework Spring Boot 3.
+Projeto feito pela plataforma Alura, utilizando Java e seu framework Spring Boot 3.
 > Status: Concluido
 
 # Endpoints:
